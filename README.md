@@ -1,8 +1,5 @@
 # 👨‍💻 Abubakar Abdulai Baba | DevOps & Cloud Infrastructure Engineer
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-
 ## 🚀 About Me
 Passionate DevOps Engineer with extensive experience in designing, implementing, and managing cloud-native infrastructure. I specialize in building robust CI/CD pipelines, implementing Infrastructure as Code, and orchestrating containerized applications at scale. My focus is on creating automated, secure, and highly available systems that enable teams to deliver value faster.
 
@@ -53,7 +50,7 @@ Passionate DevOps Engineer with extensive experience in designing, implementing,
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abudev22&show_icons=true&theme=radical)
 
 
 
