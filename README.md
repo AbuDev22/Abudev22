@@ -1,4 +1,4 @@
-# 👨‍💻 Abubakar Abdulai Baba | DevOps & Cloud Infrastructure Engineer
+# 👨‍💻 Abubakar Abdulai | DevOps & Cloud Infrastructure Engineer
 
 ## 🚀 About Me
 Passionate DevOps Engineer with extensive experience in designing, implementing, and managing cloud-native infrastructure. I specialize in building robust CI/CD pipelines, implementing Infrastructure as Code, and orchestrating containerized applications at scale. My focus is on creating automated, secure, and highly available systems that enable teams to deliver value faster.
