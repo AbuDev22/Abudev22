@@ -1,4 +1,4 @@
-# 👨‍💻 Abubakar Abdulai | DevOps & Cloud Infrastructure Engineer
+# 👨‍💻 Abubakar Abdulai Baba | DevOps & Cloud Infrastructure Engineer
 
 ## 🚀 About Me
 Passionate DevOps Engineer with extensive experience in designing, implementing, and managing cloud-native infrastructure. I specialize in building robust CI/CD pipelines, implementing Infrastructure as Code, and orchestrating containerized applications at scale. My focus is on creating automated, secure, and highly available systems that enable teams to deliver value faster.
@@ -48,11 +48,6 @@ Passionate DevOps Engineer with extensive experience in designing, implementing,
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abudev22&show_icons=true&theme=radical)
-
-
 
 ## 🌟 Featured Projects
 - **[Kubernetes Production Platform](Link)** - Enterprise-grade Kubernetes platform with GitOps workflow
@@ -63,7 +58,7 @@ Passionate DevOps Engineer with extensive experience in designing, implementing,
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-abudev22%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abudev22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abudev22%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 ---
 ### 📊 Weekly Development Breakdown
